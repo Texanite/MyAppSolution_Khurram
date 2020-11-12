@@ -1,0 +1,12 @@
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Infrastructure.deps.json
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Infrastructure.dll
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Infrastructure.pdb
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\bin\Debug\netcoreapp3.1\App.SharedKernel.dll
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\bin\Debug\netcoreapp3.1\App.SharedKernel.pdb
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.csprojAssemblyReference.cache
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.AssemblyInfoInputs.cache
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.AssemblyInfo.cs
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.csproj.CopyComplete
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.dll
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.pdb

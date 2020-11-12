@@ -1,0 +1,500 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices.Test\\App.WebServices.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Domain\\App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Domain\\App.Domain.csproj",
+        "projectName": "App.Domain",
+        "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Domain\\App.Domain.csproj",
+        "packagesPath": "C:\\Users\\khurr\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khurr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Infrastructure\\App.Infrastructure.csproj": {
+                "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Infrastructure\\App.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Infrastructure\\App.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Infrastructure\\App.Infrastructure.csproj",
+        "projectName": "App.Infrastructure",
+        "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Infrastructure\\App.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\khurr\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khurr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.SharedKernel\\App.SharedKernel.csproj": {
+                "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.SharedKernel\\App.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[15.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Services\\App.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Services\\App.Services.csproj",
+        "projectName": "App.Services",
+        "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Services\\App.Services.csproj",
+        "packagesPath": "C:\\Users\\khurr\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khurr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Domain\\App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.SharedKernel\\App.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.SharedKernel\\App.SharedKernel.csproj",
+        "projectName": "App.SharedKernel",
+        "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.SharedKernel\\App.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\khurr\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khurr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.5, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices.Test\\App.WebServices.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices.Test\\App.WebServices.Test.csproj",
+        "projectName": "App.WebServices.Test",
+        "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices.Test\\App.WebServices.Test.csproj",
+        "packagesPath": "C:\\Users\\khurr\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khurr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices\\App.WebServices.csproj": {
+                "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices\\App.WebServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.15.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices\\App.WebServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices\\App.WebServices.csproj",
+        "projectName": "App.WebServices",
+        "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices\\App.WebServices.csproj",
+        "packagesPath": "C:\\Users\\khurr\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.WebServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khurr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Services\\App.Services.csproj": {
+                "projectPath": "D:\\MyDevelopment\\A1_InterviewTests\\EagleEyes -Khurram\\MyAppSolution_Khurram\\App.Services\\App.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.5, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.5, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

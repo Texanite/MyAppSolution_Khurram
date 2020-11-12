@@ -1,0 +1,16 @@
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.Services.deps.json
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.Services.dll
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.Services.pdb
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.Domain.dll
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.Infrastructure.dll
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.SharedKernel.dll
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.Domain.pdb
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.Infrastructure.pdb
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\bin\Debug\netcoreapp3.1\App.SharedKernel.pdb
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\obj\Debug\netcoreapp3.1\App.Services.csprojAssemblyReference.cache
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\obj\Debug\netcoreapp3.1\App.Services.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\obj\Debug\netcoreapp3.1\App.Services.AssemblyInfoInputs.cache
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\obj\Debug\netcoreapp3.1\App.Services.AssemblyInfo.cs
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\obj\Debug\netcoreapp3.1\App.Services.csproj.CopyComplete
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\obj\Debug\netcoreapp3.1\App.Services.dll
+D:\MyDevelopment\A1_InterviewTests\EagleEyes -Khurram\MyAppSolution_Khurram\App.Services\obj\Debug\netcoreapp3.1\App.Services.pdb

@@ -1,0 +1,2 @@
+2020-11-11 10:48:12.7649| khurram|  | 1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware| Microsoft.AspNetCore.Diagnostics.DiagnosticsLoggerExtensions.UnhandledException | An unhandled exception has occurred while executing the request. 
+2020-11-11 10:54:18.5575| khurram|  | 1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware| Microsoft.AspNetCore.Diagnostics.DiagnosticsLoggerExtensions.UnhandledException | An unhandled exception has occurred while executing the request. 
